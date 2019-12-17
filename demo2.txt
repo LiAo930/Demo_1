@@ -1,2 +1,17 @@
-dasdasd
-dsadasd
+Day2 2019.12.17
+
+分支策略管理：
+	git clone -b another_branch git_url
+	git checkout -b feature_branch
+	git pull origin feature_branch
+
+	(justDoSomething yourself)
+
+	git add ...
+	git commit -m "desc"
+
+	git push
+
+
+
+深度作用选择器，min-height,max-height
